@@ -1,4 +1,4 @@
-## Make the earch safer when your code agent makes mistake
+## Make the earth safer when your code agent makes mistake
 
 Every year many people die of snake bites.
 See for example, from a random link: https://worldpopulationreview.com/country-rankings/snake-bite-deaths-by-country

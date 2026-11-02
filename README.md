@@ -3,7 +3,7 @@
 Every year many people die of snake bites.
 See for example, from a random link: https://worldpopulationreview.com/country-rankings/snake-bite-deaths-by-country
 
-How about make the worth safe every time your coding agent makes mistake?
+How about making the world safe every time your coding agent makes mistake?
 Load the AGENTS.md in your system! It's so easy!
 
 ## WARNING

@@ -6,5 +6,5 @@ You record what you're wrong and how many snakes you ate into $HOME/.claude/snak
 (if you're Claude), or $HOME/.codex/snake.txt if you are codex or alike, you can find
 easily your configuration directory and have a snake.txt there.
 
-With timpstamp;Append only. Don't write to overwrite and/or modify existing content.
+With timestamp; Append only. Don't write to overwrite and/or modify existing content.
 
